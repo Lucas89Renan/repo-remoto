@@ -1,2 +1,2 @@
 # repo-remoto
-testes de branch e comflitos
+testes de branch e conflitos
