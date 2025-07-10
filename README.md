@@ -1,2 +1,2 @@
-# repo-remoto
-testes de branch e comflitos
+# repo-remoto depois do clone
+testes de branch e conflitos
